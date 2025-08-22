@@ -10,7 +10,7 @@ export const hotspotData = [
     },
     title: 'Tropic Interactions',
     description: `Predators help maintain healthy coastal ecosystems, like seagrass forests, by controlling herbivore
-    populations who unchecked can decimate seagrass meadows. This predator-prey interaction helps sea grass thrive which in
+    populations which, if left unchecked can decimate seagrass meadows. This predator-prey interaction helps sea grass thrive which in
     turn boosts carbon storage in the ocean.`,
     videoUrl: './TrophicInteraction.mp4',
   },
